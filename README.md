@@ -1,7 +1,7 @@
 # Real-Time Semantic Segmentation & Vision-Based Heading Controller
 
 <p align="center">
-  <img src="assets/sample_video_1_frames.png" alt="Sample video frame extraction" width="900">
+  <img src="./assets/sample_video_1_frames.png" alt="Sample video frame extraction" width="900">
 </p>
 
 <p align="center">
@@ -40,11 +40,11 @@ The model segments every frame into 5 navigation-critical classes:
 ### Sample Frames Extracted From Videos
 
 <p align="center">
-  <img src="assets/sample_video_1_frames.png" alt="Video 1 extracted frames" width="900">
+  <img src="./assets/sample_video_1_frames.png" alt="Video 1 extracted frames" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/sample_video_2_frames.png" alt="Video 2 extracted frames" width="900">
+  <img src="./assets/sample_video_2_frames.png" alt="Video 2 extracted frames" width="900">
 </p>
 
 ---
@@ -54,12 +54,12 @@ The model segments every frame into 5 navigation-critical classes:
 These images show the RGB frame together with its colored semantic mask overlay.
 
 <p align="center">
-  <img src="assets/mask_overlay_example_1.png" alt="Mask overlay example 1" width="420">
-  <img src="assets/mask_overlay_example_2.png" alt="Mask overlay example 2" width="420">
+  <img src="./assets/mask_overlay_example_1.png" alt="Mask overlay example 1" width="420">
+  <img src="./assets/mask_overlay_example_2.png" alt="Mask overlay example 2" width="420">
 </p>
 
 <p align="center">
-  <img src="assets/mask_overlay_example_3.png" alt="Mask overlay example 3" width="420">
+  <img src="./assets/mask_overlay_example_3.png" alt="Mask overlay example 3" width="420">
 </p>
 
 ---
@@ -73,23 +73,23 @@ Each result shows:
 3. Model prediction
 
 <p align="center">
-  <img src="assets/prediction_result_1.png" alt="Prediction result 1" width="900">
+  <img src="./assets/prediction_result_1.png" alt="Prediction result 1" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/prediction_result_2.png" alt="Prediction result 2" width="900">
+  <img src="./assets/prediction_result_2.png" alt="Prediction result 2" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/prediction_result_3.png" alt="Prediction result 3" width="900">
+  <img src="./assets/prediction_result_3.png" alt="Prediction result 3" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/prediction_result_4.png" alt="Prediction result 4" width="900">
+  <img src="./assets/prediction_result_4.png" alt="Prediction result 4" width="900">
 </p>
 
 <p align="center">
-  <img src="assets/prediction_result_5.png" alt="Prediction result 5" width="900">
+  <img src="./assets/prediction_result_5.png" alt="Prediction result 5" width="900">
 </p>
 
 ---
@@ -264,9 +264,9 @@ Weights: <paste Google Drive / OneDrive / GitHub Release link here>
 
 ## Contributors
 
-AMNA
-SANA
-ROHA
+- Amna
+- Sana
+- Roha
 
 ---
 
