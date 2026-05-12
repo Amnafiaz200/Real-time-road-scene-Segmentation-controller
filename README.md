@@ -264,9 +264,10 @@ Weights: <paste Google Drive / OneDrive / GitHub Release link here>
 
 ## Contributors
 
-- Amna
-- Sana
-- Roha
+- Ibrahim
+- Musab
+- Sheza
+- Shazreen
 
 ---
 
