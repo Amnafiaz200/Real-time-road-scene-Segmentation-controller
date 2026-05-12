@@ -1,4 +1,4 @@
-<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/7a7933b5-f24b-4233-8925-bd1eaf2cfb57" /># Real-Time Semantic Segmentation & Vision-Based Heading Controller
+# Real-Time Semantic Segmentation & Vision-Based Heading Controller
 
 <img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/6370c5f5-bcee-430d-850c-278003d24308" />
 <img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/0c10c2b0-ccf6-48da-9621-328f54464419" />
