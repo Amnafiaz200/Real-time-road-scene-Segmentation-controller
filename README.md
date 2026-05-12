@@ -8,7 +8,10 @@ The system performs semantic segmentation on live RGB video streams and uses the
 - Speed adjustment
 - Path following
 - Emergency stopping
-Uploading Real-Time Semantic Segmentation for Vision-Based Heading Control (1) (1).mp4…
+
+---
+
+https://github.com/user-attachments/assets/d50d8e9c-3181-4024-9e8e-66896d247f51
 
 ---
 
