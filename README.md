@@ -1,21 +1,9 @@
-# Real-Time Semantic Segmentation & Vision-Based Heading Controller
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/7a7933b5-f24b-4233-8925-bd1eaf2cfb57" /># Real-Time Semantic Segmentation & Vision-Based Heading Controller
 
-<p align="center">
-  <img src="./assets/sample_video_1_frames.png" alt="Sample video frame extraction" width="900">
-</p>
+<img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/6370c5f5-bcee-430d-850c-278003d24308" />
+<img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/0c10c2b0-ccf6-48da-9621-328f54464419" />
+<img width="750" height="368" alt="image" src="https://github.com/user-attachments/assets/38a0653e-e7d1-4e7a-903a-452277de1810" />
 
-<p align="center">
-  <b>Real-time robotics perception pipeline for semantic scene understanding, safe navigation, and vision-based heading control.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Task-Semantic%20Segmentation-blue" />
-  <img src="https://img.shields.io/badge/Domain-Robotics-green" />
-  <img src="https://img.shields.io/badge/Input-RGB%20Video-orange" />
-  <img src="https://img.shields.io/badge/Control-Vision--Based%20Heading-purple" />
-</p>
-
----
 
 ## Project Overview
 
@@ -35,35 +23,6 @@ The model segments every frame into 5 navigation-critical classes:
 
 ---
 
-## Visual Results From Notebook
-
-### Sample Frames Extracted From Videos
-
-<p align="center">
-  <img src="./assets/sample_video_1_frames.png" alt="Video 1 extracted frames" width="900">
-</p>
-
-<p align="center">
-  <img src="./assets/sample_video_2_frames.png" alt="Video 2 extracted frames" width="900">
-</p>
-
----
-
-### Dataset Mask Overlay Examples
-
-These images show the RGB frame together with its colored semantic mask overlay.
-
-<p align="center">
-  <img src="./assets/mask_overlay_example_1.png" alt="Mask overlay example 1" width="420">
-  <img src="./assets/mask_overlay_example_2.png" alt="Mask overlay example 2" width="420">
-</p>
-
-<p align="center">
-  <img src="./assets/mask_overlay_example_3.png" alt="Mask overlay example 3" width="420">
-</p>
-
----
-
 ### Model Prediction Results
 
 Each result shows:
@@ -72,25 +31,11 @@ Each result shows:
 2. Ground truth semantic mask  
 3. Model prediction
 
-<p align="center">
-  <img src="./assets/prediction_result_1.png" alt="Prediction result 1" width="900">
-</p>
-
-<p align="center">
-  <img src="./assets/prediction_result_2.png" alt="Prediction result 2" width="900">
-</p>
-
-<p align="center">
-  <img src="./assets/prediction_result_3.png" alt="Prediction result 3" width="900">
-</p>
-
-<p align="center">
-  <img src="./assets/prediction_result_4.png" alt="Prediction result 4" width="900">
-</p>
-
-<p align="center">
-  <img src="./assets/prediction_result_5.png" alt="Prediction result 5" width="900">
-</p>
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/5986b342-5a1f-441b-8152-b70b299b3ed4" />
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/8af81765-a782-467b-8f04-722e35aa2a0d" />
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/c8c8d406-1d55-4d03-bfc7-7b4711505ce8" />
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/158368a4-09eb-46f8-abb2-23e9aa9b4706" />
+<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/ad2b568a-9e72-43a0-92e1-d423b8339e81" />
 
 ---
 
@@ -264,10 +209,10 @@ Weights: <paste Google Drive / OneDrive / GitHub Release link here>
 
 ## Contributors
 
-- Ibrahim
-- Musab
-- Sheza
-- Shazreen
+- Amna
+- Sana
+- Roha
+
 
 ---
 
