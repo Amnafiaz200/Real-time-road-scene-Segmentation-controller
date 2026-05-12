@@ -1,18 +1,17 @@
 # Real-Time Semantic Segmentation & Vision-Based Heading Controller
 
 A real-time robotics perception and navigation system that combines **Deep Learning**, **Computer Vision**, and **Control Systems** for autonomous scene understanding and motion control.
+---
 
+https://github.com/user-attachments/assets/d50d8e9c-3181-4024-9e8e-66896d247f51
+
+---
 The system performs semantic segmentation on live RGB video streams and uses the segmented scene information to generate intelligent navigation decisions such as:
 
 - Direction correction
 - Speed adjustment
 - Path following
 - Emergency stopping
-
----
-
-https://github.com/user-attachments/assets/d50d8e9c-3181-4024-9e8e-66896d247f51
-
 ---
 
 # 📌 Project Overview
