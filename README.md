@@ -1,4 +1,4 @@
-# 🚗 Real-Time Semantic Segmentation & Vision-Based Heading Controller
+# Real-Time Semantic Segmentation & Vision-Based Heading Controller
 
 A real-time robotics perception and navigation system that combines **Deep Learning**, **Computer Vision**, and **Control Systems** for autonomous scene understanding and motion control.
 
@@ -8,6 +8,7 @@ The system performs semantic segmentation on live RGB video streams and uses the
 - Speed adjustment
 - Path following
 - Emergency stopping
+Uploading Real-Time Semantic Segmentation for Vision-Based Heading Control (1) (1).mp4…
 
 ---
 
